@@ -5,5 +5,5 @@ title: "Welcome jaba, our deck Champ!"
 
 Caption here
 
-![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+![jetpacktocat](https://octodex.github.com/images/homercat.png)
 {: .center}
